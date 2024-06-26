@@ -1,11 +1,9 @@
-const http = require("http"); // import http from 'http'; import문을 작성하는 것과 같은 의미이다.
+const http = require("http"); // import http from 'http';    import문을 작성하는 것과 같은 의미이다.
 const url = require("url");
 
 // localhost -> 127.0.0.1 -> loop back -> 서버를 실행한 컴퓨터
 const host = "localhost";
 const port = 3000;
-
-// 서버 만들기
 
 // req -> request -> 요청
 // res -> response -> 응답
