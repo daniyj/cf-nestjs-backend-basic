@@ -1,0 +1,11 @@
+{
+  "name": "codefactory-nestjs-basic-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daniyj/cf-nestjs-backend-basic.git",
+  "author": "dani <joyjoy312@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

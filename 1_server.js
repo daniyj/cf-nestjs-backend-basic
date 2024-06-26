@@ -1,5 +1,4 @@
-// import http from 'http'; 2줄은 1줄과 같다.
-const http = require("http");
+const http = require("http"); // import http from 'http'; import문을 작성하는 것과 같은 의미이다.
 const url = require("url");
 
 // localhost -> 127.0.0.1 -> loop back -> 서버를 실행한 컴퓨터
